@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m James. I write code to help you understand and use your data.'
+    title: 'Hi, I’m James. I write code to help you make the most of your data.'
     subtitle: Example text
     actions:
       - label: Contact Me
