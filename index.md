@@ -41,9 +41,7 @@ sections:
       - title: Software development
         subtitle: Products that do exactly what you need
         content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+          I develop applications that 
         actions:
           - label: See Past Work
             url: /faq
