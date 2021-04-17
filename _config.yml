@@ -26,7 +26,6 @@ header:
   has_secondary_nav: false
   has_anncmnt: false
 footer:
-  logo: images/logo.svg
   logo_alt: Alyvia logo
   has_primary_nav: true
   primary_nav_links:
