@@ -41,7 +41,7 @@ sections:
       - title: Software development
         subtitle: Products that do exactly what you need
         content: >-
-          I develop products
+          I develop products that solve probl
         actions:
           - label: See Past Work
             url: /faq
