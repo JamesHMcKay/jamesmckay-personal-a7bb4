@@ -41,7 +41,10 @@ sections:
       - title: Software development
         subtitle: Products that do exactly what you need
         content: >-
-          I develop products that solve data problems. From efficient back-end services to customer centric visualisations and dashboards. Software is at the core of what I do, with robust code behind every output from websites to research.
+          I develop products that solve data problems. From efficient back-end
+          services to customer centric visualisations and dashboards. Software
+          is at the core of what I do, with robust code behind every output from
+          websites to research.
         actions:
           - label: See Past Work
             url: /faq
@@ -58,11 +61,10 @@ sections:
     background_color: none
   - type: grid_section
     title: Technical blog
-    subtitle: Latest research and development
+    subtitle: Latest work
     grid_items:
-      - content: >-
+      - content: |-
           Parallel computing with a GPU, an introduction.
-
           **James McKay,** *January 2021*
         image: images/hanson-deck.png
         image_position: left
