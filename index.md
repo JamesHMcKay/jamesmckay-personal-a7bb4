@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m James. I write code to help you understand and use your data.'
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: Example text
     actions:
       - label: Contact Me
         url: /contact
