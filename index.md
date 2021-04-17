@@ -61,7 +61,7 @@ sections:
     subtitle: Latest research and development
     grid_items:
       - content: >-
-          Parallel computing 
+          Parallel computing with a GPU, an introduction.
 
           **Hanson Deck,** *App Developer, Studio*
         image: images/hanson-deck.png
