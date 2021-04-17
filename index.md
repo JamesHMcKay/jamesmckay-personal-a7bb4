@@ -72,7 +72,7 @@ sections:
           COVID-19 data response
 
           *Shiny R dashboard*
-        image: images/miles-tone.png
+        image: images/Rlogo.svg
         image_position: left
         image_width: twenty-five
       - content: >-
