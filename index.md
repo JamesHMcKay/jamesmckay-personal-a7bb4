@@ -63,9 +63,8 @@ sections:
     title: Current and past projects
     subtitle: Latest work
     grid_items:
-      - content: |-
-          Parallel computing with a GPU, an introduction.
-          **James McKay,** *January 2021*
+      - content: |
+          The New Zealand RiverGuide
         image: images/RiverWikiLogo.png
         image_position: left
         image_width: twenty-five
