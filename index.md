@@ -60,7 +60,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Technical blog
+    title: Current and past projects
     subtitle: Latest work
     grid_items:
       - content: |-
