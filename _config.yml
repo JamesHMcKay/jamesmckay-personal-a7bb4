@@ -106,3 +106,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://jamesmckay-personal-a7bb4.netlify.app'
