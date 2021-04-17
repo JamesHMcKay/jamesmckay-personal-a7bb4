@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 layout_type: boxed
 style: classic
-palette: aqua
+palette: asdas
 mode: light
 base_font: serif
 header:
