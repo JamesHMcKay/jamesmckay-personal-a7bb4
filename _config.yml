@@ -10,7 +10,7 @@ palette: blue
 mode: dark
 base_font: serif
 header:
-  title: Personal Theme
+  title: Software for data science and analytics
   has_primary_nav: true
   primary_nav_links:
     - label: FAQ
