@@ -60,7 +60,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: Technical blog
     subtitle: Latest research and development
     grid_items:
       - content: >-
