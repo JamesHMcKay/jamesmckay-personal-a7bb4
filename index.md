@@ -84,12 +84,12 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >-
+    content: >
       ## Let's talk
 
 
       If you would like more information about my services and pricing, please
-      contact me using the form below.
+      contact me using this form.
     content_align: left
     form_position: right
     form_width: fifty
