@@ -63,7 +63,7 @@ sections:
       - content: >-
           Parallel computing with a GPU, an introduction.
 
-          **Hanson Deck,** *App Developer, Studio*
+          **James McKay,** *App Developer, Studio*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
