@@ -67,16 +67,6 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
       - content: >-
           Alyvia really understands who our customers are and what tone of voice
           to use when communicating with them.
