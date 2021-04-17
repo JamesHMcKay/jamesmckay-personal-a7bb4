@@ -41,7 +41,7 @@ sections:
       - title: Software development
         subtitle: Products that do exactly what you need
         content: >-
-          I develop products that solve data 
+          I develop products that solve data problems. From efficient back-end services to 
         actions:
           - label: See Past Work
             url: /faq
