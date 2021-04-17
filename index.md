@@ -61,9 +61,7 @@ sections:
     subtitle: Latest research and development
     grid_items:
       - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
-
+          Using Python to 
 
           **Hanson Deck,** *App Developer, Studio*
         image: images/hanson-deck.png
