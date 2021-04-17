@@ -10,7 +10,7 @@ palette: blue
 mode: light
 base_font: serif
 header:
-  title: Software for data science and analytics
+  title: Software for data
   has_primary_nav: true
   primary_nav_links:
     - label: FAQ
