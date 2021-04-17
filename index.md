@@ -66,7 +66,7 @@ sections:
       - content: |-
           Parallel computing with a GPU, an introduction.
           **James McKay,** *January 2021*
-        image: images/hanson-deck.png
+        image: images/RiverWikiLogo.png
         image_position: left
         image_width: twenty-five
       - content: >-
