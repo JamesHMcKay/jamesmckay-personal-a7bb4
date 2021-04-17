@@ -41,7 +41,7 @@ sections:
       - title: Software development
         subtitle: Products that do exactly what you need
         content: >-
-          I develop products that solve data problems. From efficient back-end services to customer centric visualisations and dashboards, these applications are mad
+          I develop products that solve data problems. From efficient back-end services to customer centric visualisations and dashboards. Software is at the core of what I do, and is 
         actions:
           - label: See Past Work
             url: /faq
