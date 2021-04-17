@@ -23,7 +23,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: Analytics and modelling
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
