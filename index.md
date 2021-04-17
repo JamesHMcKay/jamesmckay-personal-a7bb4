@@ -68,12 +68,10 @@ sections:
         image: images/RiverWikiLogo.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: |
+          COVID-19 data response
 
-
-          **Miles Tone,** *CEO, Studio*
+          *Shiny R dashboard*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
