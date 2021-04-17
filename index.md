@@ -72,7 +72,6 @@ sections:
           COVID-19 data response
 
           *Shiny R dashboard*
-        image: images/Rlogo.svg
         image_position: left
         image_width: thirty-three
     grid_cols: two
