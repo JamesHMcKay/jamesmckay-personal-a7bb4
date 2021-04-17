@@ -41,7 +41,7 @@ sections:
       - title: Software development
         subtitle: Products that do exactly what you need
         content: >-
-          I develop products that solve data problems. From efficient back-end services to customer centric visualisations and dashboards, these applications are made to fit the nee
+          I develop products that solve data problems. From efficient back-end services to customer centric visualisations and dashboards, these applications are mad
         actions:
           - label: See Past Work
             url: /faq
