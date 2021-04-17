@@ -61,7 +61,7 @@ sections:
     subtitle: Latest research and development
     grid_items:
       - content: >-
-          Using Python to 
+          Parallel computing 
 
           **Hanson Deck,** *App Developer, Studio*
         image: images/hanson-deck.png
