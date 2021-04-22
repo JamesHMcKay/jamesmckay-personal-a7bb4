@@ -135,14 +135,14 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Stackbit Personal Theme
+  title: James McKay
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Personal Theme
+      value: James McKay
       keyName: property
     - name: 'og:description'
       value: The preview of the Personal theme
@@ -154,7 +154,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Personal Theme
+      value: James McKay
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
