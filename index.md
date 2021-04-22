@@ -23,9 +23,17 @@ sections:
     title: What I do
     features:
       - title: Analytics and modelling
-        subtitle: 'Extracting value from data'
+        subtitle: Extracting value from data
         content: >
-            I create insights by following a proven approach to data analysis. The first step is data cleaning; understanding what parts of the data hold value and bringing together data from a range of places. This is often the hardest part and requires care, and can involve many levels of automation. Once a robust, repeatable data cleaning process is in place I can produce valuable insights with confidence. Depending on the business problem this can involve using the appropriate statistical methodology to extract further information from the data, or find the right visualisations to make results easy to understand.
+          I create insights by following a proven approach to data analysis. The
+          first step is data cleaning; understanding what parts of the data hold
+          value and bringing together data from a range of places. This is often
+          the hardest part and requires care, and can involve many levels of
+          automation. Once a robust, repeatable data cleaning process is in
+          place I can produce valuable insights with confidence. Depending on
+          the business problem this can involve using the appropriate
+          statistical methodology to extract further information from the data,
+          or find the right visualisations to make results easy to understand.
         actions:
           - label: See some of my work
             url: /faq
@@ -54,7 +62,7 @@ sections:
         image: images/software_development.svg
         image_alt: Feature 3 illustration
         media_position: right
-        media_width: sixty
+        media_width: fourty
     feature_padding_vert: large
     align: center
     background_color: none
