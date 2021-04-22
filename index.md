@@ -23,18 +23,17 @@ sections:
     title: What I do
     features:
       - title: Analytics and modelling
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: 'Extracting value from data'
         content: >
-          I extract value from data by using the right statistical methods for
-          the given problem.
+            I create insights by following a proven approach to data analysis. The first step is data cleaning; understanding what parts of the data hold value and bringing together data from a range of places. This is often the hardest part and requires care, and can involve many levels of automation. Once a robust, repeatable data cleaning process is in place I can produce valuable insights with confidence. Depending on the business problem this can involve using the appropriate statistical methodology to extract further information from the data, or find the right visualisations to make results easy to understand.
         actions:
-          - label: See Writing Samples
+          - label: See some of my work
             url: /faq
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-1.svg
+        image: images/analytics.svg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
@@ -52,7 +51,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-3.svg
+        image: images/software_development.svg
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
