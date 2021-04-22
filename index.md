@@ -44,7 +44,7 @@ sections:
         image: images/analytics.svg
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: sixty
+        media_width: fourty
       - title: Software development
         subtitle: Products that do exactly what you need
         content: >-
