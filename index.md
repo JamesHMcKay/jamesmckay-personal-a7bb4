@@ -112,6 +112,7 @@ sections:
             no_follow: false
             type: action
         image_align: center
+        title: The New Zealand RiverGuide
       - content: >
           ### COVID-19 Data Portal
 
