@@ -20,7 +20,7 @@ sections:
           nor will it solve all the problems, but it allows for fast iterations
           and rapid improvements. I repeat this process until the final product
           is built, tested and ready to go.
-      - title: Can you manage our social media?
+      - title: What technology do you work with?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
