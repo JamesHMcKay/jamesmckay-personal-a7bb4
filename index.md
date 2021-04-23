@@ -189,7 +189,7 @@ sections:
   - title: Blog
     subtitle: Thoughts and ideas
     actions: []
-    blog_feed_cols: three
+    blog_feed_cols: two
     enable_cards: false
     show_recent: false
     recent_count: 0
