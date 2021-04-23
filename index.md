@@ -102,7 +102,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: Learn more about the RiverGuide in this post.
+          - label: Learn more about the RiverGuide
             url: '#/riverguide'
             style: secondary
             has_icon: false
