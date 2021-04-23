@@ -96,8 +96,8 @@ sections:
 
           The RiverGuide is contains the only single source for all river flow
           and rainfall data in New Zealand, with over 1000 live gauges. It also
-          features recreational data for white water kayaking, with interactive
-          features for editing content and logging activities.
+          features recreational guides with interactive features for editing
+          content and logging activities.
         image: images/RiverWikiLogo.png
         image_position: left
         image_width: twenty-five
