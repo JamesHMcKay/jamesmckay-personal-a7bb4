@@ -103,7 +103,7 @@ sections:
         image_width: twenty-five
         actions:
           - label: Learn more about the RiverGuide in this post.
-            url: '#'
+            url: '#/riverguide'
             style: link
             has_icon: false
             icon: arrow-left
