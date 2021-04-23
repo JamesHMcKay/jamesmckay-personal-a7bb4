@@ -119,7 +119,7 @@ sections:
           This Shiny R application was developed rapidly at the start of New
           Zealand's COVID-19 lock-down. With a robust data pipeline it has
           scaled to showing hundreds of different datasets in a simple user
-          interface to help inform New Zealand's economic recovery.
+          interface.
         image_position: left
         image_width: thirty-three
         image: images/Auckland-weekly-traffic-light.jpg.svg
