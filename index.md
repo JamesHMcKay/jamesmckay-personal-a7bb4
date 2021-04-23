@@ -45,6 +45,21 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: fourty
+      - title: Process automation
+        subtitle: Efficient, automated business processes
+        content: >-
+          Automation saves time and reduces errors. Almost every task is worth automating to some extent. Using the appropriate tools I automate process, from simple file management tasks through to large data pipelines.
+        actions:
+          - label: See Past Work
+            url: /faq
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/process_automation.svg
+        image_alt: Feature 3 illustration
+        media_position: right
+        media_width: fourty
       - title: Software development
         subtitle: Products that do exactly what you need
         content: >-
