@@ -91,9 +91,6 @@ sections:
     subtitle: Latest work
     grid_items:
       - content: >
-          ### The New Zealand RiverGuide
-
-
           The RiverGuide is contains the only single source for all river flow
           and rainfall data in New Zealand, with over 1000 live gauges. It also
           features recreational guides with interactive features for editing
