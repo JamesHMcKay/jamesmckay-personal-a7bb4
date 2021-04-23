@@ -128,6 +128,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        title: COVID-19 Data Portal
       - title: Confronting dark matter theory with data
         subtitle: lorem-ipsum
         title_align: left
