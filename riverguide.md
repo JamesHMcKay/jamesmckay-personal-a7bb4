@@ -10,7 +10,7 @@ layout: page
 ---
 *April 23 2021*
 
- {text-align: justify}
+{: style="text-align: justify" }
 
 The New Zealand RiverGuide was developed to provide live environmental data alongside recreational guides for activities in New Zealand freshwater. It also provides functionality for users to edit descriptions, post public notices and log their activities. This was a personal project in a collaboration with an environmental scientist with a vision to both share and collect data about freshwater recreation in New Zealand.
 
