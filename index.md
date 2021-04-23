@@ -123,6 +123,16 @@ sections:
         image_position: left
         image_width: twenty-five
         image: images/Auckland-weekly-traffic-light.jpg.svg
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
