@@ -121,7 +121,7 @@ sections:
           scaled to showing hundreds of different datasets in a simple user
           interface.
         image_position: left
-        image_width: thirty-three
+        image_width: twenty-five
         image: images/Auckland-weekly-traffic-light.jpg.svg
     grid_cols: two
     grid_gap_horiz: medium
