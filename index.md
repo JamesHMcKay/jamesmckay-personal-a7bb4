@@ -118,6 +118,7 @@ sections:
           *Shiny R dashboard*
         image_position: left
         image_width: thirty-three
+        image: images/Auckland-weekly-traffic-light.jpg
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
