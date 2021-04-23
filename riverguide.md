@@ -20,6 +20,8 @@ The hosting costs of the website and back-end services are supported by White Wa
 
 ![](/images/Screenshot%20from%202021-04-23%2022-50-58.png)
 
+{: style="text-align: justify" }
+
 The RiverGuide has three main components, each a separate software project.
 
 The front end is the RiverGuide itself, a React application written in TypeScript. The code is available here:
