@@ -187,7 +187,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - title: Blog
-    subtitle: lorem-ipsum
+    subtitle: Thoughts and ideas
     actions: []
     blog_feed_cols: three
     enable_cards: false
