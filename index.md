@@ -36,7 +36,7 @@ sections:
           or find the right visualisations to make results easy to understand.
         actions:
           - label: See some of my work
-            url: /faq
+            url: /work
             style: primary
             has_icon: true
             icon: arrow-right
