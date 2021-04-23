@@ -28,12 +28,6 @@ sections:
           patterns. I generally try and use the right tool for the job, keeping
           in mind the environment in which I'm working, the data and the
           requirements.
-      - title: Who handles the design?
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
