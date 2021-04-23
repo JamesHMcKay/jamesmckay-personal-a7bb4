@@ -28,12 +28,6 @@ sections:
           patterns. I generally try and use the right tool for the job, keeping
           in mind the environment in which I'm working, the data and the
           requirements.
-      - title: How do you base your pricing?
-        content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
       - title: What if my business is technical?
         content: >-
           No product or service is too technical to learn and understand. Part
