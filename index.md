@@ -111,6 +111,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        image_align: center
       - content: |
           COVID-19 data response
 
