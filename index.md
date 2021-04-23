@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m James. I write code to help you make the most of your data.'
+    title: 'Hi, I’m James. I build software to'
     subtitle: Example text
     actions:
       - label: Contact Me
@@ -46,9 +46,12 @@ sections:
         media_position: right
         media_width: fourty
       - title: Process automation
-        subtitle: Efficient, automated business processes
+        subtitle: 'Efficient, automated business processes'
         content: >-
-          Automation saves time and reduces errors. Almost every task is worth automating to some extent. Using the appropriate tools I automate process, from simple file management tasks through to large data pipelines.
+          Automation saves time and reduces errors. Almost every task is worth
+          automating to some extent. Using the appropriate tools I automate
+          process, from simple file management tasks through to large data
+          pipelines.
         actions:
           - label: See Past Work
             url: /faq
