@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The New Zealand RiverGuide
 seo:
   title: ''
   description: ''
