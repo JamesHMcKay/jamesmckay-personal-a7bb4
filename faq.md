@@ -11,12 +11,15 @@ sections:
   - type: grid_section
     grid_items:
       - title: What is your process?
-        content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
+        content: >
+          When working in a new domain I like to get a physical view of the data
+          and processes that currently exist. From there I try and picture the
+          end goal of the product I going to build. While solutions can often be
+          abstract ideas, and remain that way for too long, I like to deliver
+          something early. For me getting a prototype product up fast is key. It
+          won't be perfect to begin with, but it allows for fast iterations and
+          rapid improvements. I repeat this process until the final product is
+          built, tested and ready to go.
       - title: Can you manage our social media?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
