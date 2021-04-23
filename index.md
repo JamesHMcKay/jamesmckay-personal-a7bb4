@@ -101,7 +101,16 @@ sections:
         image: images/RiverWikiLogo.png
         image_position: left
         image_width: twenty-five
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - content: |
           COVID-19 data response
 
