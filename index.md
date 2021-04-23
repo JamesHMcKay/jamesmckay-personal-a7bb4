@@ -102,7 +102,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: lorem-ipsum
+          - label: Learn more about the RiverGuide in this post.
             url: '#'
             style: link
             has_icon: false
