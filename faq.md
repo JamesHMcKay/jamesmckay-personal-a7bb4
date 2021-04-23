@@ -28,12 +28,6 @@ sections:
           patterns. I generally try and use the right tool for the job, keeping
           in mind the environment in which I'm working, the data and the
           requirements.
-      - title: How fast can we get started?
-        content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
       - title: Who handles the design?
         content: >-
           You can choose to provide the design yourself, or I can include a
