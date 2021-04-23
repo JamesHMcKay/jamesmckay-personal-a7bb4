@@ -133,7 +133,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: lorem-ipsum
+      - title: Confronting dark matter theory with data
         subtitle: lorem-ipsum
         title_align: left
         content: >-
