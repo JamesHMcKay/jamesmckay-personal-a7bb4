@@ -13,13 +13,13 @@ sections:
       - title: What is your process?
         content: >
           When working in a new domain I like to get a physical view of the data
-          and processes that currently exist. From there I try and picture the
-          end goal of the product I going to build. While solutions can often be
-          abstract ideas, and remain that way for too long, I like to deliver
-          something early. For me getting a prototype product up fast is key. It
-          won't be perfect to begin with, but it allows for fast iterations and
-          rapid improvements. I repeat this process until the final product is
-          built, tested and ready to go.
+          and processes that currently exist. From there I picture the end goal.
+          While solutions can often be abstract ideas, and remain that way for
+          too long, I like to deliver something early. For me getting a
+          prototype product up fast is key. It won't be perfect to begin with,
+          nor will it solve all the problems, but it allows for fast iterations
+          and rapid improvements. I repeat this process until the final product
+          is built, tested and ready to go.
       - title: Can you manage our social media?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
