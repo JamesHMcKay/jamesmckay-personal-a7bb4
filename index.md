@@ -104,7 +104,7 @@ sections:
         actions:
           - label: Learn more about the RiverGuide in this post.
             url: '#/riverguide'
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
