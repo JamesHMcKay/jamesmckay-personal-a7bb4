@@ -111,9 +111,6 @@ sections:
         image_align: center
         title: The New Zealand RiverGuide
       - content: >
-          ### COVID-19 Data Portal
-
-
           This Shiny R application was developed rapidly at the start of New
           Zealand's COVID-19 lock-down. With a robust data pipeline it has
           scaled to showing hundreds of different datasets in a simple user
