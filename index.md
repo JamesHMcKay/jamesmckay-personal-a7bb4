@@ -186,7 +186,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-  - title: lorem-ipsum
+  - title: Blog
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
