@@ -113,13 +113,13 @@ sections:
             type: action
         image_align: center
       - content: >
-          ## *COVID-19 Data Portal*
+          ### *COVID-19 Data Portal*
 
 
           *This Shiny R application was developed rapidly at the start of New
-          Zealand's COVID-19 *lock-down*. With a robust data pipeline it has
+          Zealand's COVID-19 lock-down. With a robust data pipeline it has
           scaled to showing hundreds of different datasets in a simple user
-          interface to help inform New Zealands economic recovery.*
+          interface to help inform New *Zealand's* economic recovery.*
         image_position: left
         image_width: thirty-three
         image: images/Auckland-weekly-traffic-light.jpg
