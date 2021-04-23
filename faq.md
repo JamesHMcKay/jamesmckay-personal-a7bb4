@@ -21,11 +21,13 @@ sections:
           and rapid improvements. I repeat this process until the final product
           is built, tested and ready to go.
       - title: What technology do you work with?
-        content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+        content: >
+          I have over 10 years experience working with many different technology
+          stacks. Software is about applying logic and patterns to solve
+          problems, the language used is simply a way of expressing these
+          patterns. I generally try and use the right tool for the job, keeping
+          in mind the environment in which I'm working, the data and the
+          requirements.
       - title: How do you base your pricing?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
