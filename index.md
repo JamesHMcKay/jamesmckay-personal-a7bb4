@@ -122,7 +122,7 @@ sections:
           interface to help inform New Zealand's economic recovery.
         image_position: left
         image_width: thirty-three
-        image: images/Auckland-weekly-traffic-light.jpg
+        image: images/Auckland-weekly-traffic-light.jpg.svg
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
