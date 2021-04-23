@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m James. I build software to make the most out of data.'
-    subtitle: Example text
+    subtitle: >-
+      From data cleaning to simple and clean presentation, software helps us
+      make processes robust and repeatable.
     actions:
       - label: Contact Me
         url: /contact
