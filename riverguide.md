@@ -8,11 +8,11 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## <https://riverguide.co.nz/>
+<https://riverguide.co.nz/>
 
 Code
 
-<https://github.com/JamesHMcKay/RiverGuide>****
+<https://github.com/JamesHMcKay/RiverGuide>\*\*\*\*
 
 The New Zealand RiverGuide was developed to provide live environmental data alongside recreational guides for activities in New Zealand freshwater.
 
