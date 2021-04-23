@@ -113,8 +113,7 @@ sections:
             type: action
         image_align: center
       - content: >
-          COVID-19 Data Portal
-
+          ### COVID-19 Data Portal
 
 
           This Shiny R application was developed rapidly at the start of New
