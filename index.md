@@ -165,7 +165,7 @@ sections:
           systematic statistical bias in observational data.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn more about our expanding universe
             url: '#'
             style: link
             has_icon: false
