@@ -148,7 +148,7 @@ sections:
         subtitle: From experiment to theory
         image: images/stars.png
       - title: The Hubble flow of the universe
-        subtitle: But with respect to who?
+        subtitle: 'The universe is expanding, but with respect to who?'
         title_align: left
         content: >
           This paper explores the concept of a universal frame of reference,
