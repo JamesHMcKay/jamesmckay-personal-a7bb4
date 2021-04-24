@@ -88,7 +88,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Current and past projects
-    subtitle: Latest work
+    subtitle: Highlighted work
     grid_items:
       - content: >
           The RiverGuide is contains the only single source for all river flow
