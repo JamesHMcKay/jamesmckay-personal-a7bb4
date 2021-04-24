@@ -28,8 +28,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-
 ## Credentials
 
 I have a PhD in physics from Imperial College London. I also received a Masters and a Bachelors degree from the University of Canterbury with majors in Mathematics and Physics. I have worked as a researcher, product development engineer, and data analyst.
@@ -38,4 +36,4 @@ With over 10 years experience solving complex problems across many domains I am 
 
 ## Accessible solutions
 
-Robust solutions make sense. I understand the importance of communicating solutions to all parts of a business and their customers, and enjoy stripping away technical jargon so that anyone with the business knowledge can be part of the problem solving process. With a background in high energy physics I am practiced at turning extremely technical work into something that can be discussed with everyone.
+Robust solutions make sense. I understand the importance of communicating solutions to all parts of a business and their customers, and am well practiced at stripping away technical jargon so that anyone with the business knowledge can be part of the problem solving process. With a background in high energy physics I am practiced at turning extremely technical work into something that can be discussed with everyone.
