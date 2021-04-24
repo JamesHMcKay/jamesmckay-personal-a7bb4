@@ -137,7 +137,7 @@ sections:
           measurements.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn more about my dark matter work
             url: '#'
             style: link
             has_icon: false
