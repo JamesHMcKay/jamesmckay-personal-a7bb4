@@ -150,17 +150,10 @@ sections:
       - title: 'The universe is expanding, but with respect to who?'
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          This paper explores the concept of a universal frame of reference,
+          what is background on which the universe is expanding. It also explore
+          systematic statistical bias in observational data.
         content_align: left
         actions: []
         actions_align: left
