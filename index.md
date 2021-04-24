@@ -131,17 +131,10 @@ sections:
         title: COVID-19 Data Portal
       - title: Confronting dark matter theory with data
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          These three papers combine a total of over 50 million data points to
+          rule out theoretical dark matter models based on various experimental
+          measurements.
         content_align: left
         actions: []
         actions_align: left
