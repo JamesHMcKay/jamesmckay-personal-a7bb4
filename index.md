@@ -146,6 +146,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: From experiment to theory
+        image: images/stars.png
       - title: 'The universe is expanding, but with respect to who?'
         subtitle: lorem-ipsum
         title_align: left
