@@ -167,7 +167,7 @@ sections:
         actions:
           - label: Learn more about our expanding universe
             url: '#'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
