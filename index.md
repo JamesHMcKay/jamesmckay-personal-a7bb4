@@ -139,7 +139,7 @@ sections:
         actions:
           - label: Learn more about my dark matter work
             url: scalar-singlet-dark-matter
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
