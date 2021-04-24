@@ -8,9 +8,10 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+Three papers
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   Scalar singlet dark matter Z2
 
-- Lorem ipsum
-- dolor sit amet
+*   Scanning algorithm comparison
+
+*   Scalar singlet dark matter Z3
