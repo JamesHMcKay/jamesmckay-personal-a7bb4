@@ -1,5 +1,5 @@
 ---
-title: Welcome to my website
+title: Welcome to my personal website
 subtitle: lorem-ipsum
 date: '2021-04-23'
 categories: []
