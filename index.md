@@ -130,7 +130,7 @@ sections:
             type: action
         title: COVID-19 Data Portal
       - title: Confronting dark matter theory with data
-        subtitle: lorem-ipsum
+        subtitle: 'From experiment to theory, '
         title_align: left
         content: >-
           ## Lorem ipsum
