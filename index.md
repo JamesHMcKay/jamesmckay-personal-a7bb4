@@ -147,7 +147,7 @@ sections:
         type: grid_item
         subtitle: From experiment to theory
         image: images/stars.png
-      - title: 'The universe is expanding, but with respect to who?'
+      - title: The Hubble flow of the universe
         subtitle: But with respect to who?
         title_align: left
         content: >
