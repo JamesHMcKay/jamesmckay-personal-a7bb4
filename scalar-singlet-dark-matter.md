@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Scalar singlet dark matter
 seo:
   title: ''
   description: ''
