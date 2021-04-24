@@ -153,7 +153,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/stars.jpg
       - title: 'The universe is expanding, but with respect to who?'
         subtitle: lorem-ipsum
         title_align: left
