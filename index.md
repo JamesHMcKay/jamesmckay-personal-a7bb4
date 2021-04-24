@@ -164,7 +164,16 @@ sections:
           what is background on which the universe is expanding. It also explore
           systematic statistical bias in observational data.
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
