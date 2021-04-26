@@ -166,7 +166,7 @@ sections:
         content_align: left
         actions:
           - label: Learn more about our expanding universe
-            url: '#'
+            url: hubb
             style: secondary
             has_icon: false
             icon: arrow-left
