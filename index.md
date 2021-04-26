@@ -132,9 +132,9 @@ sections:
       - title: Confronting dark matter theory with data
         title_align: left
         content: >
-          These three papers combine a total of over 50 million data points to
-          rule out theoretical dark matter models based on various experimental
-          measurements.
+          While we known some kind of dark matter exists, the nature of it is
+          not yet understood. In this work I confronted some possible dark
+          matter theories with data, which involved large computational efforts.
         content_align: left
         actions:
           - label: Learn more about my dark matter work
