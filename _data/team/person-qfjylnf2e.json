@@ -4,5 +4,6 @@
     "first_name": "James",
     "last_name": "McKay",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/profile_downsized.png"
 }
