@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact Me
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: Fill out the form below and I will get in touch as soon as possible
     align: center
     padding_top: medium
     padding_bottom: medium
