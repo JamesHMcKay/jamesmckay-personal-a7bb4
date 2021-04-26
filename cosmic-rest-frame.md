@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Defining the frame of minimum non-linear Huble expansion variation
 seo:
   title: ''
   description: ''
