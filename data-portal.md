@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: COVID-19 Data Portal
 seo:
   title: ''
   description: ''
