@@ -138,7 +138,7 @@ sections:
         content_align: left
         actions:
           - label: Learn more about my dark matter work
-            url: scalar-singlet-dark-matter
+            url: dark-matter-studies
             style: secondary
             has_icon: false
             icon: arrow-left
