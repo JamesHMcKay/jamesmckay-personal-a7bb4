@@ -8,7 +8,7 @@ layout_type: boxed
 style: classic
 palette: blue
 mode: light
-base_font: sans-serif
+base_font: serif
 header:
   title: James McKay
   has_primary_nav: true
