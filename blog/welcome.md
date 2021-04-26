@@ -15,4 +15,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+author: _data/team/person-qfjylnf2e.json
 ---
