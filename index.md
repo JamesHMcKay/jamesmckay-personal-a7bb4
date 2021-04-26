@@ -193,7 +193,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - title: Blog
-    subtitle: Thoughts and ideas
+    subtitle: Current work and updates
     actions: []
     blog_feed_cols: two
     enable_cards: true
