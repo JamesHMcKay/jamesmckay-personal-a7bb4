@@ -1,6 +1,6 @@
 ---
 title: Welcome to my personal website
-subtitle: lorem-ipsum
+subtitle: Purpose and introduction
 date: '2021-04-23'
 categories: []
 tags: []
