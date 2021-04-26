@@ -21,6 +21,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    image: images/profile.png
   - type: features_section
     title: What I do
     features:
