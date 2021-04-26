@@ -20,9 +20,7 @@ layout: page
 
 As New Zealand entered a lock down to prevent the spread of COVID-19 there was a need from both the public and private sectors for accessible, up to date data. With so many data sets available, and coming in fast, there was a need to produce something to get data out as quickly as possible.
 
-
-
-![](/images/Z-Energy-weekly-fuel-supply-volumes.jpg)
+![](/images/Screenshot%20from%202021-04-26%2023-15-37.png)
 
 
 
