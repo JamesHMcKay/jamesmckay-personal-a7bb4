@@ -1,5 +1,5 @@
 ---
-title: Defining the frame of minimum non-linear Huble expansion variation
+title: Defining the frame of minimum non-linear Hubble expansion variation
 seo:
   title: ''
   description: ''
