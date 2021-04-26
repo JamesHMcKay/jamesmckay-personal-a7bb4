@@ -87,7 +87,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Current and past projects
+    title: Some past projects
     subtitle: Highlighted work
     grid_items:
       - content: >
