@@ -8,9 +8,10 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+**Publication**
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   <https://academic.oup.com/mnras/article/457/3/3285/2588916>
 
-- Lorem ipsum
-- dolor sit amet
+**Software**
+
+*   ****<https://github.com/JamesHMcKay/hvar>
