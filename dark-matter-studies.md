@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The study of dark matter
 seo:
   title: ''
   description: ''
