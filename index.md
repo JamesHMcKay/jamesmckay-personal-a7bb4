@@ -166,7 +166,7 @@ sections:
         content_align: left
         actions:
           - label: Learn more about our expanding universe
-            url: hubb
+            url: cosmic_rest_frame
             style: secondary
             has_icon: false
             icon: arrow-left
