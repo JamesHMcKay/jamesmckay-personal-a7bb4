@@ -1,5 +1,5 @@
 ---
-title: Defining the frame of minimum non-linear Hubble expansion variation
+title: What is the cosmic rest frame?
 seo:
   title: ''
   description: ''
