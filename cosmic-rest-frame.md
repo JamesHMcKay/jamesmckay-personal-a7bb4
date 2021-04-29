@@ -14,11 +14,9 @@ layout: page
 
 For my Master research I extended work by Wiltshire et al. on the definition of a cosmic rest frame. Using a sample of 4,534 galaxies we performed an optimisation to find the reference frame that minimised the monopole variation of the spherically averaged non-linear Hubble expansion. This analysis ruled out the cosmic microwave background (CMB) rest frame as the frame with the most uniform Hubble expansion. However, the frame of reference defined by the Local Group of galaxies, was within our set of candidate rest frames.
 
-**Defining the frame of minimum non-linear Hubble expansion variation** was published in the *Monthly Notices of the Royal Astronomical Society*, Volume 457, Issue 3, 11 April 2016, Pages 3285–3305.
+The research was further extended using a sample of 8,162 galaxies. After statistical bias was identified and treated we were able to achieve comparable results with our other data set, consistent with the CMB frame being ruled out as the frame of minimum Hubble expansion variation.
 
-<https://doi.org/10.1093/mnras/stw128>
-
-**Published:** 23 February 2016
+**Defining the frame of minimum non-linear Hubble expansion variation** was published in the *Monthly Notices of the Royal Astronomical Society*, Volume 457, Issue 3, 11 April 2016, Pages 3285–3305 <https://doi.org/10.1093/mnras/stw128>.
 
 **The code used for the research is publicly available at GitHub:**
 
