@@ -22,6 +22,6 @@ The research was further extended using a sample of 8,162 galaxies. After statis
 
 **Defining the frame of minimum non-linear Hubble expansion variation** was published in the *Monthly Notices of the Royal Astronomical Society*, Volume 457, Issue 3, 11 April 2016, Pages 3285–3305 <https://doi.org/10.1093/mnras/stw128>.
 
-**The code used for the research is publicly available at GitHub:**
+**The code used for the research is publicly available on GitHub:**
 
 <https://github.com/JamesHMcKay/hvar>
