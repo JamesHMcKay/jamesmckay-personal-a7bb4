@@ -8,7 +8,9 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-Before the 16th century the notion that our civilisation was not fixed at centre of the universe was preposterous. With the progress of astronomy the more familiar concept of the Earth moving in space soon overtook this geocentric view. With the question resolved in our own solar system, we now face similar questions on a cosmological scale. The notion of cosmological rest and the consequent assumptions involved have implications throughout observational cosmology. Is any observer truly at rest in our vast and dynamic universe, and if so, who?
+*\[The following is an extract from my 2015 M.Sc. thesis.]*
+
+Before the 16th century the notion that our civilistion was not fixed at centre of the universe was preposterous. With the progress of astronomy the more familiar concept of the Earth moving in space soon overtook this geocentric view. With the question resolved in our own solar system, we now face similar questions on a cosmological scale. The notion of cosmological rest and the consequent assumptions involved have implications throughout observational cosmology. Is any observer truly at rest in our vast and dynamic universe, and if so, who?
 
 **Publication**
 
@@ -28,9 +30,4 @@ Before the 16th century the notion that our civilisation was not fixed at centre
 
 The universe is expanding, at a
 
-
-
 We characterize a cosmic rest frame in which the monopole variation of the spherically averaged non-linear Hubble expansion is most uniform, under arbitrary local Lo
-
-
-
