@@ -121,7 +121,7 @@ sections:
         image: images/Auckland-weekly-traffic-light.jpg.svg
         actions:
           - label: Learn more about the Data Portal
-            url: '#'
+            url: data-portal
             style: secondary
             has_icon: false
             icon: arrow-left
