@@ -8,26 +8,18 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-*\[The following is an extract from my 2015 M.Sc. thesis.]*
+*Before the 16th century the notion that our civilistion was not fixed at centre of the universe was preposterous. With the progress of astronomy the more familiar concept of the Earth moving in space soon overtook this geocentric view. With the question resolved in our own solar system, we now face similar questions on a cosmological scale. The notion of cosmological rest and the consequent assumptions involved have implications throughout observational cosmology. Is any observer truly at rest in our vast and dynamic universe, and if so, who?*
 
-Before the 16th century the notion that our civilistion was not fixed at centre of the universe was preposterous. With the progress of astronomy the more familiar concept of the Earth moving in space soon overtook this geocentric view. With the question resolved in our own solar system, we now face similar questions on a cosmological scale. The notion of cosmological rest and the consequent assumptions involved have implications throughout observational cosmology. Is any observer truly at rest in our vast and dynamic universe, and if so, who?
+\-- J.H. McKay 2015 M.Sc. thesis.
 
-**Publication**
+For my Master research I extended work by Wiltshire et al. on the definition of a cosmic rest frame. Using a sample of 4,534 galaxies we performed an optimisation to find the reference frame that minimised the monopole variation of the spherically averaged non-linear Hubble expansion. This analysis ruled out the cosmic microwave background (CMB) rest frame as the frame with the most uniform Hubble expansion. However, the frame of reference defined by the Local Group of galaxies, was within our set of candidate rest frames.
 
-\[Defining the frame of minimum non-linear Hubble expansion variation]\(https://doi.org/10.1093/mnras/stw128)
-
-[James H. McKay](javascript:;), [David L. Wiltshire](javascript:;)
-
-*Monthly Notices of the Royal Astronomical Society*, Volume 457, Issue 3, 11 April 2016, Pages 3285–3305
+**Defining the frame of minimum non-linear Hubble expansion variation** was published in the *Monthly Notices of the Royal Astronomical Society*, Volume 457, Issue 3, 11 April 2016, Pages 3285–3305.
 
 <https://doi.org/10.1093/mnras/stw128>
 
 **Published:** 23 February 2016
 
-**Software**
+**The code used for the research is publicly available at GitHub:**
 
 <https://github.com/JamesHMcKay/hvar>
-
-The universe is expanding, at a
-
-We characterize a cosmic rest frame in which the monopole variation of the spherically averaged non-linear Hubble expansion is most uniform, under arbitrary local Lo
