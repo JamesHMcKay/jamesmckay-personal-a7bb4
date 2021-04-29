@@ -1,5 +1,5 @@
 ---
-title: What is the cosmic rest frame?
+title: The cosmic rest frame
 seo:
   title: ''
   description: ''
