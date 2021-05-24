@@ -12,7 +12,7 @@ sections:
         style: primary
     image_alt: Cover photo
     media_position: right
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: large
     padding_bottom: large
