@@ -162,8 +162,8 @@ sections:
         title_align: left
         content: >
           This paper explores the concept of a universal frame of reference,
-          what is background on which the universe is expanding. It also explore
-          systematic statistical bias in observational data.
+          what is the background on which the universe is expanding. It also
+          explore systematic statistical bias in observational data.
         content_align: left
         actions:
           - label: Learn more about our expanding universe
