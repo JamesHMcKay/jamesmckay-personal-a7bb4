@@ -42,15 +42,10 @@ Simplicity is essential when presenting large, disparate and constantly evolving
 
 There are number of reasons why this product was so popular, from timing to the data itself. However, there is one main thought I have from a software perspective that made it possible.
 
-The key to this product working so well is in the balance between structure and flexibility in a system. This was a balance I refined two weeks after initial launch, with almost a complete overhaul of the code. The Data Portal was able to grow quickly because I enabled a level of flexibility in the code that didn't slow down progress, with abstractions in the right places technical debt was managed while still allowing analysts to build their own ingestion functions and move quickly.
+The key to this product working so well is in the balance between structure and flexibility in a system. This was a balance I refined two weeks after initial launch, with almost a complete overhaul of the code to enable slightly more flexibility. The Data Portal was able to grow quickly because I enabled a level of flexibility in the code that didn't slow down progress, with abstractions in the right places technical debt was managed while still allowing analysts to build their own ingestion functions and move quickly.
 
-On the other hand the Data Portal and respective data handling system had a level of structure that enabled changes to made easily across the whole product. For example, all data presentations inherited code from one place, so if a title format had to change or we needed to tweak how information was described below plots, this wasn't a big job. Surprisingly, this kind of structure is missing in many R Shiny dashboards, resulting in code that simply can't be managed.
+On the other hand the Data Portal and respective data handling system had a level of structure that enabled changes to be made easily across the whole product. For example, all data presentations inherited code from one place, so if a title format had to change or we needed to tweak how information was described below plots, this wasn't a big job. Surprisingly, this kind of structure is missing in many R Shiny dashboards, resulting in code that simply can't be managed.
 
 The structure in data handling from end-to-end also enabled confidence in the outputs we were producing. With new data sets and constant updates (many daily), we needed to know that the software would just work. While there was no time to develop a full set of unit tests, the best I could do was write simple and clean code, that was consistent across the whole system.
 
 Ultimately, this balance between structure and flexibility enabled the Data Portal to deliver without creating huge technical debt.
-
-
-
-
-
