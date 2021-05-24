@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I’m James. I build software to get the most out of data.'
     subtitle: >-
-      From simple presentation to complex modelling, I develop code that helps
-      make insights that are robust, automated and reliable.
+      From simple presentation to complex modelling, I develop code that
+      produces insights that are robust, automated and reliable.
     actions:
       - label: Contact Me
         url: /contact
