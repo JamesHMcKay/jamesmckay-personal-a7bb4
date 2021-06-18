@@ -56,7 +56,6 @@ footer:
       icon: linkedin
       icon_position: center
       new_window: true
-  content: Find me on linked in
 sass:
   indentWidth: 4
   style: expanded
