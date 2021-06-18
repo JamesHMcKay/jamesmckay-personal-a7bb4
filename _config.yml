@@ -49,13 +49,6 @@ footer:
       style: link
   has_social: true
   social_links:
-    - label: Facebook
-      url: 'https://www.facebook.com/'
-      style: link
-      has_icon: true
-      icon: facebook
-      icon_position: center
-      new_window: true
     - label: LinkedIn
       url: 'https://www.linkedin.com/'
       style: link
