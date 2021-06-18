@@ -61,13 +61,7 @@ sections:
           services to customer centric visualisations and dashboards. Software
           is at the core of what I do, with robust code behind every output from
           websites to research.
-        actions:
-          - label: See Past Work
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/software_development.svg
         image_alt: Feature 3 illustration
         media_position: right
