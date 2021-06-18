@@ -49,13 +49,7 @@ sections:
           automating to some extent. Using the appropriate tools I automate
           process, from simple file management tasks through to large data
           pipelines.
-        actions:
-          - label: See Past Work
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/process_automation.svg
         image_alt: Feature 3 illustration
         media_position: right
