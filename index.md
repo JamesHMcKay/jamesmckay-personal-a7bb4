@@ -37,13 +37,7 @@ sections:
           the business problem this can involve using the appropriate
           statistical methodology to extract further information from the data,
           or find the right visualisations to make results easy to understand.
-        actions:
-          - label: See some of my work
-            url: /work
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/analytics.svg
         image_alt: Feature 1 illustration
         media_position: right
