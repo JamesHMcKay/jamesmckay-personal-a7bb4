@@ -56,13 +56,6 @@ footer:
       icon: facebook
       icon_position: center
       new_window: true
-    - label: Instagram
-      url: 'https://www.instagram.com/'
-      style: link
-      has_icon: true
-      icon: instagram
-      icon_position: center
-      new_window: true
     - label: LinkedIn
       url: 'https://www.linkedin.com/'
       style: link
