@@ -28,12 +28,16 @@ seo:
       relativeUrl: true
 layout: page
 ---
+I have been writing code to solve analytical problems for over a decade now, with my background in physics and mathematics providing a context for a lot of this work, and a strong analytical foundation for approaching complex and unique challenges.
+
 ## Credentials
 
-I have a PhD in physics from Imperial College London. I also received a Masters and a Bachelors degree from the University of Canterbury with majors in Mathematics and Physics. I have worked as a researcher, product development engineer, and data analyst.
+I have a PhD in physics from Imperial College London. During this time I published five papers as a lead or major contributing author, and contributed to five others. For a list of my publications see the [INSPIRE website](https://inspirehep.net/authors/1605072).
 
-With over 10 years experience solving complex problems across many domains I am confident when faced with new and unique challenges.
+I also received a Masters and a Bachelors with Honours degree from the University of Canterbury with majors in Mathematics and Physics.
 
-## Accessible solutions
+Beyond the research world I have worked as a researcher, product development engineer, and data analyst.
+
+## What I do now
 
 Robust solutions make sense. I understand the importance of communicating solutions to all parts of a business and their customers, and am well practiced at stripping away technical jargon so that anyone with the business knowledge can be part of the problem solving process. With a background in high energy physics I am practiced at turning extremely technical work into something that can be discussed with everyone.
