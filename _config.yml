@@ -48,7 +48,7 @@ footer:
   social_links:
     - label: LinkedIn
       url: 'https://www.linkedin.com/in/jmckay958/'
-      style: link
+      style: primary
       has_icon: true
       icon: linkedin
       icon_position: center
