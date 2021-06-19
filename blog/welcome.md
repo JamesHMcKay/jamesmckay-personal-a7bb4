@@ -17,3 +17,7 @@ seo:
 layout: post
 author: _data/team/person-qfjylnf2e.json
 ---
+Welcome to my website. I set this up as a place to display some of the interesting work I have done and publish new content.
+
+
+
