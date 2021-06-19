@@ -28,8 +28,6 @@ The exact mass of a dark matter particle is determined through a series of compl
 
 **Publications**
 
-****
-
 *   [Two-loop mass splittings in electroweak multiplets: Winos and minimal dark matter](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.055049)
 
 *   [Pitfalls of iterative pole mass calculation in electroweak multiplets](https://link.springer.com/article/10.1140%2Fepjp%2Fi2018-12250-4)[](https://link.springer.com/article/10.1140%2Fepjp%2Fi2018-12250-4)
