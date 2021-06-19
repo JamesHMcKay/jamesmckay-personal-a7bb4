@@ -14,9 +14,9 @@ Dark matter is proposed particle or class of particles which make up a large por
 
 There are many theoretical models for dark matter. Some of these can be tested with current experiment, and subsequently ruled out, because otherwise they would have detectable impacts on physics that we can see. Other models may never be ruled out, as they effectively tuck the dark matter away in a part of the physical model that we would never be able to test with experiment.
 
-For the models that can be tested, there can be an infinite number of parameter combinations, such as the mass of the dark matter particle itself, that can be adjusted to match our expectations. To rule a model out, we must test every combination of the parameters against current experimental data. In these three papers we explore a particular class of models, testing them against experimental constraints.
+For the models that can be tested, there can be an infinite number of parameter combinations, such as the mass of the dark matter particle itself, that can be adjusted to match our expectations. To rule a model out, we must test every combination of the parameters against current experimental data. In these three papers we explore a particular class of models, testing them against experimental constraints
 
-*   [Status of the scalar singlet dark matter model](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-017-5113-1\))
+*   [Status of the scalar singlet dark matter model](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-017-5113-1)
 
 *   [Comparison of statistical sampling methods with ScannerBit, the GAMBIT scanning module](https://link.springer.com/article/10.1140/epjc/s10052-017-5274-y)
 
