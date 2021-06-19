@@ -28,15 +28,12 @@ sections:
       - title: Analytics and modelling
         subtitle: Extracting value from data
         content: >
-          I create insights by following a proven approach to data analysis. The
-          first step is data cleaning; understanding what parts of the data hold
-          value and bringing together data from a range of places. This is often
-          the hardest part and requires care, and can involve many levels of
-          automation. Once a robust, repeatable data cleaning process is in
-          place I can produce valuable insights with confidence. Depending on
-          the business problem this can involve using the appropriate
-          statistical methodology to extract further information from the data,
-          or find the right visualisations to make results easy to understand.
+          I create insights by following a proven approach to data analysis. By
+          building robust, repeatable data cleaning processes I can bring
+          together disparate data and form valuable insights with confidence,
+          over and over again. I can build on these insights using the
+          appropriate statistical methodology to extract further information,
+          create cool visualisations and make results easy to understand.
         actions: []
         image: images/analytics.svg
         image_alt: Feature 1 illustration
