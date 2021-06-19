@@ -21,17 +21,21 @@ seo:
       value: This is the terms and conditions page
 layout: page
 ---
+*Effective June 19 2021*
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. 
+Welcome to the personal website of James McKay. Please read these Terms of Service carefully before any using the services available on this website.
 
-## Phasellus Finibus Risus Eget
+Your access to and use this website is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors.
 
-Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo. Phasellus finibus risus eget est cursus finibus.
+By accessing or using this website and any services associated with this website you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access this website.
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus. Morbi egestas ullamcorper vulputate. Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+**Disclaimer**
 
-## Donec Vitae Tincidunt Erat
+We disclaim and exclude all liability for any claim, loss, demand or damages of any kind (including for negligence) which arise out of or in connection with the use of this website and associated services. This includes the information and content available on this website and that of any websites that we link to.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+**External links**
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. Aliquam at velit eu elit iaculis cursus. In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque. 
+This website may contain links to third-party websites or services which are not owned or controlled by us.
+
+We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+
