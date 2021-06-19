@@ -21,23 +21,45 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
+*Effective 19 June 2021*
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+This Privacy Policy explains how we handle, store and use information that is collected through your use of this website, including your choices and what practices we use to protect your personal information. Your privacy is important to us and we want to ensure that you understand how we look after it, so this statement is written in plain English with explanations of technical concepts.
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
+If you have any questions or comments regarding this Privacy Statement, the collection and use of your personal information, cookies or similar technology, please contact us using the contact form.
 
-### Morbi Egestas Ullamcorper Vulputate
+**Information collected**
 
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+This website collects information through the Contact me form, the information collected is
 
-### Donec Vitae Tincidunt Erat
+*   **Name**
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+*   **Email address**
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
+This basic information is used in order to contact you. By using this form you agree, as per our Terms of Service, that you will provide your own email address or the email address of the company you represent and have the right to use.
 
-## Aliquam at Velit eu Elit Iaculis Cursus
+**Website analytics**
 
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+We use reports from Netlify to help improve the experience of our users. This service transmits information on web traffic. The information does not identify individual users, the user account or IP address associated with any other Google service. This allows us to understand how you use our services and how we can improve the experience.
+
+**Cookie policy**
+
+Cookies are small text files which our website may store on your device to enable us to remember your preferences. These data files make it possible to personalise your experience and show you the most relevant information.
+
+First party cookies are designed and deployed by us to improve user experience in relation to our services. We also utilise third-party cookies, these are developed by our third-party vendors, and are deployed in relation to the services they provide.
+
+Your internet browser will generally offer settings that enable you to refuse or delete cookies. These can be all cookies, third-party cookies or those from specific websites. However, if you refuse or delete cookies we will not be able to offer you all of our services, including the ability to stay signed in or remember your preferences.
+
+**How we keep your information safe**
+
+We work hard to ensure that we use the most secure technology and methods to ensure your personal information is protected. This website is hosted by Netlify which uses industry standard Secure Sockets Layer (SSL) technology to allow for the encryption of any personal information transmitted over the internet.
+
+The personal information collected by the contact form on thsi website is stored in a securely using the Netlify services.
+
+**Disclaimer**
+
+While we make every effort to ensure your personal data is safe, we can not guarantee that anything transmitted over the internet is completely secure. This is the case for any internet service. Because of this we cannot warrant or ensure the security of information you transmit using this website, so you do so at your own risk.
+
+**Revisions to this policy**
+
+We reserve the right to review and modify this policy. This enables us to improve our practices and inform you of changes to how we collect and use information. If material changes are made we will provide a clear notice.
