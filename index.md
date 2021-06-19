@@ -70,7 +70,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Some past projects
+    title: Highlighted work
     subtitle: Highlighted work
     grid_items:
       - content: >
