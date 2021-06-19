@@ -16,7 +16,7 @@ header:
     - label: Contact me
       url: /contact
       style: link
-    - label: lorem-ipsum
+    - label: About
       url: '#'
       style: link
       has_icon: false
