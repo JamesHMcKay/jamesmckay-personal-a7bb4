@@ -46,8 +46,9 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    content: |
-      Some text here.
+    content: >
+      Let me know if you have any questions about the content on this website or
+      would like to discuss how I can help with your own business problems.
 seo:
   title: Contact
   description: This is the contact page
