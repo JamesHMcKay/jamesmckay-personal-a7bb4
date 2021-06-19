@@ -16,15 +16,11 @@ There are many theoretical models for dark matter. Some of these can be tested w
 
 For the models that can be tested, there can be an infinite number of parameter combinations, such as the mass of the dark matter particle itself, that can be adjusted to match our expectations. To rule a model out, we must test every combination of the parameters against current experimental data. In these three papers we explore a particular class of models, testing them against experimental constraints.
 
+*   [Status of the scalar singlet dark matter model](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-017-5113-1\))
 
+*   [Comparison of statistical sampling methods with ScannerBit, the GAMBIT scanning module](https://link.springer.com/article/10.1140/epjc/s10052-017-5274-y)
 
-\[Status of the scalar singlet dark matter model]\(https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-017-5113-1)
-
-*   \[Status of the scalar singlet dark matter model]\(https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-017-5113-1)
-
-*   <https://link.springer.com/article/10.1140/epjc/s10052-017-5274-y>
-
-*   <https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-018-6314-y>
+*   [Impact of vacuum stability, perturbativity and XENON1T on global fits of Z2 and Z3 scalar singlet dark matter](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-018-6314-y)
 
 ## Calculating the mass of a dark matter particle
 
@@ -32,10 +28,12 @@ The exact mass of a dark matter particle is determined through a series of compl
 
 **Publications**
 
-*   <https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.055049>
+****
 
-*   <https://link.springer.com/article/10.1140%2Fepjp%2Fi2018-12250-4>
+*   [Two-loop mass splittings in electroweak multiplets: Winos and minimal dark matter](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.055049)
+
+*   [Pitfalls of iterative pole mass calculation in electroweak multiplets](https://link.springer.com/article/10.1140%2Fepjp%2Fi2018-12250-4)[](https://link.springer.com/article/10.1140%2Fepjp%2Fi2018-12250-4)
 
 **Software**
 
-*   \*\*\*\*<https://github.com/JamesHMcKay/Mass_builder>
+*   <https://github.com/JamesHMcKay/Mass_builder>
